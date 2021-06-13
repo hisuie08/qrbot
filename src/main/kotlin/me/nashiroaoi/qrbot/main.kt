@@ -24,5 +24,5 @@ class BotClient{
 
 fun main(){
     val bot = BotClient()
-    bot.main("")
+    bot.main("TOKEN")
 }
